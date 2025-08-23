@@ -1,4 +1,6 @@
-## Hi there 👋
+I’m currently learning SWIFT and JS 
+
+![Codewars](https://www.codewars.com/users/teasec4/badges/micro)
 
 <!--
 **teasec4/teasec4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
